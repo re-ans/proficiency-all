@@ -1,0 +1,19 @@
+NEW 0 startingstring
+PRINT 0
+
+INSERT 0 XXXxxxXXXxxx 0
+PRINT 0
+
+REMOVE 0 3 3
+PRINT 0
+
+REMOVE 0 0 26
+PRINT 0
+
+APPEND 0 restart
+PRINT 0
+
+APPEND 0 abcdefghijklmnopqrstuvwxyz_again!!!
+PRINT 0
+
+DELETE 0
